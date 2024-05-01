@@ -1,3 +1,11 @@
+// Part 2 of the Firmware project
+// this code receives a sensing data 
+// this code sends 5 output emergency levels 
+// this code program each of the emergency levels lamps to blink in a specific interval 
+
+
+
+
 #include <SoftwareSerial.h>
 
 SoftwareSerial Serial2(0, 1); // Pinout of Arduino to ESP32 for communication with ESP32
