@@ -1,7 +1,9 @@
 // Part 2 of the Firmware project
-// this code receives a sensing data 
-// this code sends 5 output emergency levels 
-// this code program each of the emergency levels lamps to blink in a specific interval 
+// this code was uploaded to the arduino uno only 
+// this code reads the value on pin A1 and send it through the serial to the esp32 
+// this code turn on five lamps, each lamp is automatically turned on by the emergency level received 
+// this code receives the emergency level from the esp32 using a string  
+// this code program each of the lamps to blink in a specific interval 
 
 
 

@@ -1,3 +1,11 @@
+// Part 2 of the firmware 
+// This code was uploaded to the esp32 only 
+// this code was written when the esp32 was connected to the arduino 
+// serial 2 was to establsih a communication between the arduino and the esp32 
+// the sensor was received and sent to the web page using a the POST and the GET methods 
+
+
+
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
