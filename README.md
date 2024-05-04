@@ -7,10 +7,11 @@ The local webpage contains five emergency buttons, by pressing each button the w
 the ESP32 will blink the LED corresponding to the emergency received on the server. 
 
 ## This repo includes:
-A firmware for an Adrduino uno that was coded on Arduino IDE
-A firmware for an ESP32 that was coded on Arduino IDE
-The index.html file is for coding a webpage that is displayed on the local host server address
-The python file is also running on the local host and the local port.
+
+- A firmware for an Adrduino uno that was coded on Arduino IDE
+- A firmware for an ESP32 that was coded on Arduino IDE
+- The index.html file is for coding a webpage that is displayed on the local host server address
+- The python file is also running on the local host and the local port.
 
 
 >[!Caution]
