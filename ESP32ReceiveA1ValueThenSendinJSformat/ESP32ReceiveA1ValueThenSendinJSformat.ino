@@ -12,8 +12,8 @@
 
 const char *ssid = "ADT";
 const char *password = "adt@12345";
-const char *server_address = "192.168.1.2";
-const int serverPort = 5000;
+const char *server_address = "192.168.1.3";
+const int serverPort = 5500;
 
 WiFiServer server(80);
 
